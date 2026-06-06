@@ -37,6 +37,24 @@ Wrote SQL queries to extract, filter, and aggregate data. Queries address specif
 
 ---
 
+### Project 4 — Data Visualization (Excel)
+
+Transformed cleaned e-commerce data into a four-chart 
+visual dashboard using Excel PivotCharts. Applied 
+data storytelling principles including action titles, 
+data-ink ratio, and the SCR narrative framework.
+
+**Key Insights:**
+- Chair and Printer led revenue at 195,000 each
+- Instagram drove the most orders at 259
+- Cancelled orders were highest at 250, flagging 
+  a fulfilment issue
+- Online payment was the most preferred method 
+  at 258 orders
+
+**Files:**
+- `Dataset_for_Data_Analytics_Project_4_completed.xlsx`
+
 ## Author
 **Shopeju Babatunde Mathew**  
 Agricultural Economics Graduate | Data Analytics  
